@@ -1,0 +1,1 @@
+This version calculates the clusters including the effects of the framework. This means a potential site in the framework can unite several clusters and they might all form a bigger extended HB network.
