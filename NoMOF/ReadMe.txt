@@ -1,0 +1,1 @@
+To calculate clusters for the molecules only within the pore (excluding the effects from the framework)

@@ -1,0 +1,4 @@
+//INPUT FILE
+HBbondlength_cutoff = 2.5 
+HBbondangle_cutoff  = 180
+NI1 HI2 NI2 end
