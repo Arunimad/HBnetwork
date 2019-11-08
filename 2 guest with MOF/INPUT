@@ -1,0 +1,4 @@
+//INPUT FILE
+HBbondlength_cutoff = 3 
+HBbondangle_cutoff  = 180
+H_e O_e H_e end
